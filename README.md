@@ -2,7 +2,7 @@
 
 This isn’t your typical “enterprise-approved, ten-committee-reviewed” styleguide.  
 I normally write code for **critical systems** — the kind that needs to work, not win style points.  
-If you’re looking for warm-and-fuzzy coding practices or mob programming kumbaya sessions… look elsewhere.  
+If you’re looking for warm-and-fuzzy coding practices or mob programming a.k.a kumbaya sessions… look elsewhere.  
 
 ---
 
