@@ -34,10 +34,9 @@ If you’re looking for warm-and-fuzzy coding practices or mob programming a.k.a
 
 ## Anti-Rules
 
-- ❌ No endless refactoring  
-- ❌ No committee debates  
-- ❌ No “best practices for the sake of it”  
-- ❌ No mob programming (I’d rather eat sand)  
+- ❌ Endless refactoring  
+- ❌ Committee debates  
+- ❌ Best practices (for the sake of it)  
 
 ---
 
@@ -63,3 +62,7 @@ def target_acquired(signal): return signal > 42
 
 This isn’t about pretty code. It’s about **mission success**.  
 If you want pretty, go paint. If you want *working under fire*, follow this style.  
+
+---
+
+And yeah — MOB programming? I’d rather eat sand. Out of place? Sure. Worth saying? Absolutely.
