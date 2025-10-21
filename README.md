@@ -7,7 +7,7 @@ If you’re looking for warm-and-fuzzy coding practices or mob programming a.k.a
 ---
 
 ## Core Philosophy
-- **Correctness is overrated.** The *fastest*, *leanest*, and *most efficient* solution wins.  
+- **Style is overrated.** code exists to support the mission — not vanity metrics, not trends. Success means the system performs correctly, safely, and predictably under all conditions.
 - **Notes over novels.** Comments are sparse and usually just reminders for my *future self*.  
 - **Code is documentation.** If you can’t read it, that’s on you.  
 - **Solo operator.** I don’t do mob programming. I barely know my fellow coders, and that’s fine.  
