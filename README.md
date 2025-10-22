@@ -1,5 +1,13 @@
 # My Coding Styleguide by `a1exnd3r`
 
+## Preface
+This document is *part parody*, *part philosophy*. 
+
+It’s not a tutorial or a strict guide — it’s more like a glimpse into a coder’s mindset when performance, uptime, and sanity matter more than style guides and scrum rituals.  
+
+**Read it with humor, not a highlighter. If you take it too seriously, that’s on you.**
+
+## Introduction
 This isn’t your typical “enterprise-approved, ten-committee-reviewed” styleguide.  
 I normally write code for **critical systems** — the kind that needs to work, not win style points.  
 If you’re looking for warm-and-fuzzy coding practices or mob programming a.k.a kumbaya sessions… look elsewhere.  
