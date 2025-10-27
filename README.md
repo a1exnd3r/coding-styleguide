@@ -17,15 +17,13 @@ If you’re looking for warm-and-fuzzy coding practices or mob programming a.k.a
 ## Core Philosophy
 - **Style is overrated.** code exists to support the mission — not vanity metrics, not trends. Success means the system performs correctly, safely, and predictably under all conditions.
 - **Notes over novels.** Comments are sparse and usually just reminders for my *future self*.  
-- **Code is documentation.** If you can’t read it, that’s on you.  
+- **Code is documentation.** If you can’t read it, that’s on you. But just to be sure, write what’s needed to satisfy the contract and the system’s life-cycle — especially in case a hand-off happens.
 - **Solo operator.** I don’t do mob programming. I barely know my fellow coders, and that’s fine.  
 
 ---
 
 ## Techniques & Habits
-
-- **Leave Code Traps.** Dead snippets, half-written ideas, and cryptic notes stay in.  
-  - They’re breadcrumbs, not bugs.  
+- **Leave Code Traps.** During active development, dead snippets, half-written ideas, and cryptic notes stay in. They’re breadcrumbs, not bugs.  
 
 - **Minimal Comments.** If I wrote a comment, it probably means:  
   ```java
