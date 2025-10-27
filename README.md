@@ -1,7 +1,7 @@
 # My Coding Styleguide by `a1exnd3r`
 
 ## Preface
-This document is *part parody*, *part philosophy*. 
+**Disclaimer:** This document is *part parody*, *part philosophy*. 
 
 It’s not a tutorial or a strict guide — it’s more like a glimpse into a coder’s mindset when performance, uptime, and sanity matter more than style guides and scrum rituals.  
 
